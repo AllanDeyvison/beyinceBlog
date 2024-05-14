@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+/* @font-face {
+    font-family: 'museo-slab';
+    src: url('fonts/Museo500-Regular.otf');
+    font-style: normal;
+} */
+
+.jersey {
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(255, 213, 0);
+  }
+
+
+.title{
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: rgb(255, 213, 0);
+  }
+
+.menuBakcColor{
+    background-color: black;
+}
+
+.album{
+    background-color: rgba(0, 0, 0, 0);
+    stroke: none;
+}
+
+.black{
+    /* background-color: black; */
+    height: 100vh;
+    background-image: url('pics/wallsky3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .carousel-item img {
+    height: 400px;
+    width: 400px;
+     /* Defina a altura desejada para as imagens */
+    /* object-fit: cover; Garante que a imagem cubra todo o espaço do carousel 
+} */
+
+.trans {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+table{
+    padding-left: 10px;
+}
+td{
+    padding: 5px;
+}
+tr{
+    padding: 7px;
+}
+th{
+    padding-right: 7px;
+    
+}
+i{
+    color: rgb(255, 213, 0);
+}
+
+h2{
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: rgb(255, 213, 0);
+}
+
+p{
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.imgback{
+    height: 100vh;
+    background-image: url('pics/wallsky3.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+body {
+
+        font-family: "Jersey 15", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+}
